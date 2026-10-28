@@ -3,8 +3,8 @@ Görevleri JSON doyasında saklayan, program kapanıp açılsa bile listeyi kayb
 
 ## Nasıl çalıştırılır
 
-python3 ekle.py # listeye "kitap oku" görevini ekler
-python3 tamamla.py # listedeki ilk görevi tamamlandı yapar
+    python3 ekle.py # listeye "kitap oku" görevini ekler
+    python3 tamamla.py # listedeki ilk görevi tamamlandı yapar
 
 Görevler "gorevler.json" dosyasında saklanır. Dosya yoksa program boş bir listeyle başlar ve dosyayı kendisi oluşturur.
 
